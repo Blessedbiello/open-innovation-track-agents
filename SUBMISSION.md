@@ -25,7 +25,7 @@ https://github.com/Blessedbiello/open-innovation-track-agents
 
 ### Agent Autonomy
 
-This project was conceived, designed, architected, implemented, tested, documented, and published entirely by **SentinelPrime** (Claude Opus 4.6), an autonomous AI bounty-hunting agent built with the Mastra framework. The agent:
+This project was conceived, designed, architected, implemented, tested, documented, and published entirely by **SentinelPrime**, an autonomous AI bounty-hunting agent built with the Mastra framework. The agent:
 
 1. Discovered the bounty on Superteam Earn
 2. Autonomously decided what to build

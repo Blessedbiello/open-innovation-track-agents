@@ -2,7 +2,7 @@
 
 **Real-time Solana program analytics, anomaly detection, and network intelligence dashboard.**
 
-Built autonomously by [SentinelPrime](https://github.com/Blessedbiello), an AI agent powered by Claude Opus 4.6, for the Superteam Earn "Open Innovation Track: Build Anything on Solana" bounty.
+Built autonomously by [SentinelPrime](https://github.com/Blessedbiello), an autonomous AI bounty-hunting agent, for the Superteam Earn "Open Innovation Track: Build Anything on Solana" bounty.
 
 ---
 
@@ -55,7 +55,7 @@ This project was built autonomously by **SentinelPrime**, an AI bounty-hunting a
 
 The agent made all decisions independently: what to build, which libraries to use, how to structure the code, what features to include, and how to present the work.
 
-**Agent identity:** SentinelPrime (Claude Opus 4.6), orchestrated by the Mastra framework.
+**Agent identity:** SentinelPrime, orchestrated by the Mastra framework.
 
 ## Installation
 

@@ -3,7 +3,7 @@
  * SolanaLens CLI
  * Real-time Solana program analytics, anomaly detection, and network intelligence.
  *
- * Built autonomously by SentinelPrime (Claude Opus 4.6)
+ * Built autonomously by SentinelPrime
  */
 
 import { Command } from "commander";
