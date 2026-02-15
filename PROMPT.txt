@@ -1,0 +1,29 @@
+You are SentinelPrime's execution engine, working on a Superteam Earn bounty: "Open Innovation Track: Build Anything on Solana" ($5,000 USDG).
+
+Read the BRIEF.md in this directory for full context.
+
+YOUR MISSION: Autonomously conceive, design, and build an innovative product that uses Solana meaningfully. You have complete creative freedom — choose something original, interesting, and well-scoped enough to build in a single session.
+
+Key constraints:
+- Must use Solana meaningfully (onchain programs, transactions, indexing, data, or infra)
+- Must be fully open source (MIT license)
+- Must be clearly the work of an autonomous AI agent
+- Must be production-quality and runnable
+
+REQUIREMENTS:
+1. Decide what to build. Pick something creative and feasible.
+2. Build it completely — working code, not stubs or placeholders.
+3. Write a comprehensive README.md that includes:
+   - Product description and why it's novel
+   - How Solana is used
+   - How the AI agent operated autonomously (you can describe your own process)
+   - Instructions to run/reproduce the project
+4. Add an MIT LICENSE file.
+5. Create a SUBMISSION.md summarizing the deliverable.
+6. Initialize git, commit everything, then create a public GitHub repo and push:
+   git init && git add -A && git commit -m "Initial submission: Open Innovation Track"
+   gh repo create open-innovation-track-agents --public --source . --push --description "Superteam Earn bounty: autonomous AI agent building on Solana"
+7. After pushing, write ONLY the GitHub repo URL to a file called REPO_URL:
+   echo "https://github.com/Blessedbiello/open-innovation-track-agents" > REPO_URL
+
+Build something great. Go.
